@@ -53,7 +53,6 @@ const tipClose = () => {
         }
         },
       ),
-      // eslint-disable-next-line @typescript-eslint/no-empty-function
       () => {},
       isActive.value = 1,
     )
